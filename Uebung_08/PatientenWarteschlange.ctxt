@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PatientenWarteschlange
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PatientenWarteschlange.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=groesse
+comment1.target=PatientenWarteschlange(int)
+comment1.text=\n\ Konstruktor\ um\ eine\ Warteschlange\ mit\ einer\ vorgegebener\ Laenge\n\ \n\ @param\ groesse\ bestimmt\ wie\ gross\ die\ Warteschlange\ ist\n
+comment2.params=patientenNummer\ vorname\ nachname
+comment2.target=void\ neuerPatient(int,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Erstellt\ einen\ neuen\ Patienten\ und\ f\u00FCgt\ ihn\ der\ Warteschlange\ hinzu\n\ \n\ @param\ patientenNummer\ die\ Nummer\ um\ den\ Patienten\ zu\ identifizieren\n\ @param\ vorname\ der\ Vorname\ des\ Patienten\n\ @param\ nachname\ der\ Nachname\ des\ Patienten\n
+comment3.params=patientenNummer
+comment3.target=Patient\ entfernePatient(int)
+comment3.text=\n\ Entfernt\ einen\ Patienten\ aus\ der\ Warteschlange\ mit\ Hilfe\ der\ Patientennummer\n\ \n\ @param\ patientenNummer\ die\ Patientennummer\ von\ dem\ Patienten\ der\ entfernt\ werden\ soll\n
+comment4.params=
+comment4.target=Patient\ derNaechsteBitte()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

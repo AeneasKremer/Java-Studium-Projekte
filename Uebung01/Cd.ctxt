@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cd
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ CD.\n\ \n\ @author\ Aeneas\ Kremer,\ Daniel\ Mayer\ \n\ @version\ 16.02.2023\n
+comment1.params=artikelNr\ bestand\ preis\ interpret\ titel\ anzahlTitel
+comment1.target=Cd(int,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Konstruktor\ der\ eine\ CD\ erstellt\n\ \n\ @param\ artikelNr\ Artikel\ Nummer\n\ @param\ bestand\ Bestand\n\ @param\ preis\ Preis\n\ @param\ interpret\ Interpret\n\ @param\ titel\ Titel\n\ @param\ anzahlTitel\ anzahl\ der\ Titel\n
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment2.text=\n\ Eine\ equals\ Methode\ um\ Objekte\ der\ Klasse\ Cd\ besser\ zu\ vergleichen\ als\ mit\n\ der\ normalen\ equals\ Methode\n\ \n\ @param\ obj\ das\ Objekt\ das\ verglichen\ wird\n
+comment3.params=
+comment3.target=java.lang.String\ getBeschreibung()
+comment3.text=\n\ Gibt\ die\ Beschreibung\ zur\u00FCck\ die\ spaeter\ in\ der\ Ausgabe\ der\ Bestands\ Liste\n\ gebraucht\ wird\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Eine\ Ausgabe\ einer\ CD\n
+numComments=5

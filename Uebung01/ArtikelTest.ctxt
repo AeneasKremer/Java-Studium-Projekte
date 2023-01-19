@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArtikelTest
+comment0.text=\n\ Die\ Test-Klasse\ ArtikelTest.\n\n\ @author\ \ (Ihr\ Name)\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=void\ testArtikel_mit_artikelNr_korrekt()
+comment2.params=
+comment2.target=void\ testBucheAbgang_mit_10()
+comment3.params=
+comment3.target=void\ testBucheZugang_mit_10()
+comment4.params=
+comment4.target=void\ testArtikel_mit_ungueltiger_artikelNr()
+comment5.params=
+comment5.target=void\ testArtikel_Bestand_wird_falsch_\u00FCbergeben()
+comment6.params=
+comment6.target=void\ testBucheAbgang_mit_minus_1_sollte_exception_werfen()
+comment7.params=
+comment7.target=void\ testBucheAbgang_mit_bestand_unter_0_sollte_exception_werfen()
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ CD.\n\ \n\ @author\ Aeneas\ Kremer,\ Daniel\ Mayer\ \n\ @version\ 16.02.2023\n
+comment1.params=artikelNr\ bestand\ preis\ titel\ spieldauer\ jahr
+comment1.target=Video(int,\ int,\ double,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Ein\ Konstruktor\ der\ ein\ Video\ erstellt\n\ \n\ @param\ artikelNr\ Artikel\ Nummer\n\ @param\ bestand\ Bestand\n\ @param\ preis\ Preis\n\ @param\ titel\ Titel\n\ @param\ spieldauer\ Spieldauer\n\ @param\ jahr\ Erscheinungsjahr\n
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment2.text=\n\ Eine\ equals\ Methode\ um\ Objekte\ der\ Klasse\ Video\ besser\ zu\ vergleichen\ als\ \n\ mit\ der\ normalen\ equals\ Methode\n\ \n\ @param\ obj\ das\ Objekt\ das\ verglichen\ wird\n
+comment3.params=
+comment3.target=java.lang.String\ getBeschreibung()
+comment3.text=\n\ Gibt\ die\ Beschreibung\ zur\u00FCck\ die\ spaeter\ in\ der\ Ausgabe\ der\ Bestands\ Liste\n\ gebraucht\ wird\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Ausgabe\ eines\ Videos\n
+numComments=5

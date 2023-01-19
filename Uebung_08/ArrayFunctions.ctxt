@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArrayFunctions
+comment0.text=\n\ Eine\ Klasse\ um\ Arrays\ auszuwerten\n\ \n\ @author\ Aeneas\ Kremer,\ Daniel\ Mayer\n\ @version\ 08.01.2023\n
+comment1.params=messwerte
+comment1.target=Mittelwert\ berechneMittelwert(double[])
+comment1.text=\n\ Methode\ um\ das\ arithmetische\ Mittel,\ den\ naechst\ moeglichen\ Wert\ am\ Mittel\ und\n\ den\ am\ weitesten\ entfernten\ Wert\ vom\ arithmetischem\ Mittel\n\ \n\ @param\ messwerte\ das\ Array\ mit\ den\ Werten\n
+comment2.params=strings
+comment2.target=int\ stringsAuswerten(java.lang.String[])
+comment2.text=\n\ Methode\ um\ Strings\ zu\ zaehlen\ die\ ausschliesslich\ in\ gross-\ oder\n\ Kleinbuchstaben\ geschrieben\ sind\n\ \n\ @param\ strings\ das\ Array\ mit\ den\ Strings\n
+numComments=3

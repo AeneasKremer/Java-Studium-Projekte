@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mittelwert
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mittelwert.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=arithmetischesMittel\ naechsterWert\ entferntesterWert
+comment1.target=Mittelwert(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getArithmetischesMittel()
+comment3.params=
+comment3.target=double\ getNaechsterWert()
+comment4.params=
+comment4.target=double\ getEntferntesterWert()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Patient.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=patientenNummer\ vorname\ nachname
+comment1.target=Patient(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Patient\n
+comment2.params=
+comment2.target=int\ getPatientenNummer()
+comment3.params=
+comment3.target=java.lang.String\ getVorname()
+comment4.params=
+comment4.target=java.lang.String\ getNachname()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ArrayFunctionsTest
+comment0.text=\n\ Die\ Test-Klasse\ ArrayFunctionsTest.\n\n\ @author\ \ Aeneas\ Kremer,\ Daniel\ Mayer\n\ @version\ 08.01.2023\n
+comment1.params=
+comment1.target=void\ testBerechneMittelwert_mit_korrekten_mittelwert()
+comment2.params=
+comment2.target=void\ testBerechneMittelwert_mit_Mittel_enthalen_im_array()
+comment3.params=
+comment3.target=void\ testBerechneMittelwert_mit_korrekten_naechsten_wert()
+comment4.params=
+comment4.target=void\ testBerechneMittelwert_mit_korrekten_entferntesten_Wert()
+comment5.params=
+comment5.target=void\ testStringsAuswerten_mit_korrektem_Strings()
+comment6.params=
+comment6.target=void\ testStringsAuswerten_mit_leeren_Array()
+numComments=7
